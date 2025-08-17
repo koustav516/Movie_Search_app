@@ -5,7 +5,7 @@ The app lets users search for movies, view details, and explore movie informatio
 
 Deployed on **Netlify** .
 
-###Link: https://movietrendhub.netlify.app/
+### Link: https://movietrendhub.netlify.app/
 ---
 
 ## Features
